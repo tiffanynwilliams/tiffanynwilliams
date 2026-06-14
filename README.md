@@ -4,14 +4,14 @@
 
 **Aspiring Health Tech Data Analyst** | Python · SQL · NumPy · Pandas | The Knowledge House Fellow |  Technology Operations Analyst, Global Data Operations @ Two Sigma
 
-Aspiring health tech data analyst building toward data science, with hands-on experience in operational analytics, incident triage, and data quality at Two Sigma. My background includes co-building a healthcare application through TULiP/ORCHID (NJBWPA) that served 200+ Black patients and providers, and deepening my technical foundation through The Knowledge House Data Analytics Fellowship.
+Health-tech-focused data analyst building toward data science, with experience in operational analytics, incident triage, and data quality at Two Sigma. My background includes co-building a healthcare application through TULiP/ORCHID (NJBWPA) that served 200+ Black patients and providers, and deepening my technical foundation through The Knowledge House Data Analytics Fellowship.
 
 ---
 
 ## 🔍 Right Now
 
 - 🔭 Working on **Access Denied**, a reproductive health data storytelling project using CDC WONDER, Guttmacher, and Census data to examine post-Dobbs outcomes
-- 🌱 Learning Python, statistical analysis, and data visualization through The Knowledge House Fellowship
+- 🌱 Building analytical workflows and data storytelling projects using Python, Pandas, SQL, and public health datasets
 - 💬 Ask me about health equity data, operational analytics, or UX research in healthcare
 - 📫 Reach me at [linkedin.com/in/tiffany-n-williams](https://www.linkedin.com/in/tiffany-n-williams/)
 - ⚡ Fun fact: I bake in my free time — it's the closest thing to being a mad scientist 
@@ -54,4 +54,4 @@ Co-built a database-driven platform connecting Black patients to providers — 2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiffany--n--williams-FF69B4?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/tiffany-n-williams/)
 
-Thank you for viisiting my GitHub today! Please feel free to reach out on LinkedIn with questions, feedback, or collaboration ideas. 💡
+Thank you for visiting my GitHub today! Please feel free to reach out on LinkedIn with questions, feedback, or collaboration ideas. 💡
