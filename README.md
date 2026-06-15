@@ -14,7 +14,7 @@ Health-tech-focused data analyst building toward data science, with experience i
 - 🌱 Building analytical workflows and data storytelling projects using Python, Pandas, SQL, and public health datasets
 - 💬 Ask me about health equity data, operational analytics, or UX research in healthcare
 - 📫 Reach me at [linkedin.com/in/tiffany-n-williams](https://www.linkedin.com/in/tiffany-n-williams/)
-- ⚡ Fun fact: I bake in my free time — it's the closest thing to being a mad scientist 
+- ⚡ Fun fact: I bake in my free time; it's the closest thing to being a mad scientist 
 
 ---
 
